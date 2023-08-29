@@ -190,7 +190,7 @@ body {
 
 #sidebar .small {
     font-size: 1rem;
-    color: rgb(194, 46, 46);
+    color: rgb(235, 77, 77);
 }
 
 #sidebar hr {
@@ -336,9 +336,9 @@ body {
 
 
 .title {
-    color: rgb(236, 30, 30);
+    color: rgb(197, 8, 8);
     font-size: 3rem;
-    font-weight: bold;
+    font-weight: bolder;
     letter-spacing: 5px;
     text-align: center;
     text-shadow: 3px -2px 5px hsl(130, 68%, 22%);
