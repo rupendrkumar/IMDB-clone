@@ -74,8 +74,8 @@ body {
     align-items: flex-start;
     font-size: 1.2rem;
     justify-content: center;
-    color: hsl(234, 39%, 85%);
-    text-shadow: 2px -1px 6px hsl(234, 39%, 85%);
+    color: hsl(160, 83%, 31%);
+    text-shadow: 2px -1px 6px hsl(56, 70%, 48%);
     flex-direction: column;
 
 
@@ -190,7 +190,7 @@ body {
 
 #sidebar .small {
     font-size: 1rem;
-    color: rgb(158, 153, 153);
+    color: rgb(194, 46, 46);
 }
 
 #sidebar hr {
@@ -336,12 +336,12 @@ body {
 
 
 .title {
-    color: rgb(247, 247, 247);
+    color: rgb(236, 30, 30);
     font-size: 3rem;
     font-weight: bold;
-    letter-spacing: 10px;
+    letter-spacing: 5px;
     text-align: center;
-    text-shadow: 3px -2px 5px hsl(234, 84%, 46%);
+    text-shadow: 3px -2px 5px hsl(130, 68%, 22%);
 
 }
 
